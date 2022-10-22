@@ -48,6 +48,6 @@ int main() {
 	printf("\n pi with %ld steps is %lf\n ", num_steps, pi);
 	//printf("with %d thread:\n", nthrds);
 		
-	printf("All done with hopefully %d threads: \n", nthreads);
+	printf("All done with hopefully %d threads.\n", nthreads);
 	
 }
